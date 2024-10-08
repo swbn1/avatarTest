@@ -1,0 +1,634 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SCRIBUSUTF8NEW Version="1.6.1">
+    <DOCUMENT ANZPAGES="13" PAGEWIDTH="576" PAGEHEIGHT="576" BORDERLEFT="40" BORDERRIGHT="40" BORDERTOP="40" BORDERBOTTOM="40" PRESET="0" BleedTop="0" BleedLeft="0" BleedRight="0" BleedBottom="0" ORIENTATION="0" PAGESIZE="Custom" FIRSTNUM="1" BOOK="1" AUTOSPALTEN="1" ABSTSPALTEN="11" UNITS="2" DFONT="Arial Regular" DSIZE="12" DCOL="1" DGAP="0" TabFill="" TabWidth="36" TextDistLeft="0" TextDistRight="0" TextDistBottom="0" TextDistTop="0" FirstLineOffset="0" AUTHOR="" COMMENTS="" KEYWORDS="" PUBLISHER="" DOCDATE="" DOCTYPE="" DOCFORMAT="" DOCIDENT="" DOCSOURCE="" DOCLANGINFO="" DOCRELATION="" DOCCOVER="" DOCRIGHTS="" DOCCONTRIB="" TITLE="" SUBJECT="" VHOCH="33" VHOCHSC="66" VTIEF="33" VTIEFSC="66" VKAPIT="75" BASEGRID="14.4" BASEO="0" AUTOL="100" UnderlinePos="-1" UnderlineWidth="-1" StrikeThruPos="-1" StrikeThruWidth="-1" GROUPC="1" HCMS="0" DPSo="0" DPSFo="0" DPuse="0" DPgam="0" DPbla="1" DPPr="Fogra27L CMYK Coated Press" DPIn="sRGB IEC61966-2.1" DPInCMYK="Fogra27L CMYK Coated Press" DPIn2="sRGB IEC61966-2.1" DPIn3="Fogra27L CMYK Coated Press" DISc="1" DIIm="0" ALAYER="0" LANGUAGE="en_US" AUTOMATIC="1" AUTOCHECK="0" GUIDELOCK="0" SnapToGuides="0" SnapToGrid="0" SnapToElement="0" MINGRID="20.0016" MAJGRID="100.0008" SHOWGRID="0" SHOWGUIDES="1" showcolborders="1" SHOWFRAME="0" SHOWControl="0" SHOWLAYERM="0" SHOWMARGIN="1" SHOWBASE="0" SHOWPICT="1" SHOWLINK="0" rulerMode="1" showrulers="1" showBleed="1" rulerXoffset="0" rulerYoffset="0" GuideRad="10" GRAB="4" POLYC="4" POLYF="0.707106781186548" POLYR="0" POLYIR="0" POLYCUR="0" POLYOCUR="0" POLYS="0" arcStartAngle="30" arcSweepAngle="300" spiralStartAngle="0" spiralEndAngle="1080" spiralFactor="1.2" AutoSave="1" AutoSaveTime="600000" AutoSaveCount="1" AutoSaveKeep="0" AUtoSaveInDocDir="1" AutoSaveDir="" ScratchBottom="20.0016" ScratchLeft="100.0008" ScratchRight="100.0008" ScratchTop="20.0016" GapHorizontal="0" GapVertical="40.0032" StartArrow="0" EndArrow="0" PEN="Black" BRUSH="None" PENLINE="Black" PENTEXT="Black" StrokeText="Black" TextBackGround="None" TextLineColor="None" TextBackGroundShade="100" TextLineShade="100" TextPenShade="100" TextStrokeShade="100" STIL="1" STILLINE="1" WIDTH="1" WIDTHLINE="1" PENSHADE="100" LINESHADE="100" BRUSHSHADE="100" CPICT="None" PICTSHADE="100" CSPICT="None" PICTSSHADE="100" PICTSCX="1" PICTSCY="1" PSCALE="1" PASPECT="1" EmbeddedPath="0" HalfRes="1" dispX="0.1389" dispY="0.1389" constrain="15" MINORC="#00ff00" MAJORC="#00ff00" GuideC="#000080" BaseC="#c0c0c0" renderStack="0 1 2 3 4" GridType="0" PAGEC="#ffffff" MARGC="#0000ff" RANDF="0" currentProfile="PostScript" calligraphicPenFillColor="Black" calligraphicPenLineColor="Black" calligraphicPenFillColorShade="100" calligraphicPenLineColorShade="100" calligraphicPenLineWidth="1" calligraphicPenAngle="0" calligraphicPenWidth="10" calligraphicPenStyle="1">
+        <CheckProfile Name="PDF 1.3" ignoreErrors="0" autoCheck="1" checkGlyphs="1" checkOrphans="1" checkOverflow="1" checkPictures="1" checkPartFilledImageFrames="0" checkResolution="1" checkTransparency="1" minResolution="144" maxResolution="2400" checkAnnotations="0" checkRasterPDF="1" checkForGIF="1" ignoreOffLayers="0" checkNotCMYKOrSpot="0" checkDeviceColorsAndOutputIntent="0" checkFontNotEmbedded="0" checkFontIsOpenType="0" checkAppliedMasterDifferentSide="1" checkEmptyTextFrames="1"/>
+        <CheckProfile Name="PDF 1.4" ignoreErrors="0" autoCheck="1" checkGlyphs="1" checkOrphans="1" checkOverflow="1" checkPictures="1" checkPartFilledImageFrames="0" checkResolution="1" checkTransparency="0" minResolution="144" maxResolution="2400" checkAnnotations="0" checkRasterPDF="1" checkForGIF="1" ignoreOffLayers="0" checkNotCMYKOrSpot="0" checkDeviceColorsAndOutputIntent="0" checkFontNotEmbedded="0" checkFontIsOpenType="0" checkAppliedMasterDifferentSide="1" checkEmptyTextFrames="1"/>
+        <CheckProfile Name="PDF 1.5" ignoreErrors="0" autoCheck="1" checkGlyphs="1" checkOrphans="1" checkOverflow="1" checkPictures="1" checkPartFilledImageFrames="0" checkResolution="1" checkTransparency="0" minResolution="144" maxResolution="2400" checkAnnotations="0" checkRasterPDF="1" checkForGIF="1" ignoreOffLayers="0" checkNotCMYKOrSpot="0" checkDeviceColorsAndOutputIntent="0" checkFontNotEmbedded="0" checkFontIsOpenType="0" checkAppliedMasterDifferentSide="1" checkEmptyTextFrames="1"/>
+        <CheckProfile Name="PDF 1.6" ignoreErrors="0" autoCheck="1" checkGlyphs="1" checkOrphans="1" checkOverflow="1" checkPictures="1" checkPartFilledImageFrames="0" checkResolution="1" checkTransparency="0" minResolution="144" maxResolution="2400" checkAnnotations="0" checkRasterPDF="1" checkForGIF="1" ignoreOffLayers="0" checkNotCMYKOrSpot="0" checkDeviceColorsAndOutputIntent="0" checkFontNotEmbedded="1" checkFontIsOpenType="0" checkAppliedMasterDifferentSide="1" checkEmptyTextFrames="1"/>
+        <CheckProfile Name="PDF/X-1a" ignoreErrors="0" autoCheck="1" checkGlyphs="1" checkOrphans="1" checkOverflow="1" checkPictures="1" checkPartFilledImageFrames="0" checkResolution="1" checkTransparency="1" minResolution="144" maxResolution="2400" checkAnnotations="1" checkRasterPDF="1" checkForGIF="1" ignoreOffLayers="0" checkNotCMYKOrSpot="0" checkDeviceColorsAndOutputIntent="0" checkFontNotEmbedded="0" checkFontIsOpenType="0" checkAppliedMasterDifferentSide="1" checkEmptyTextFrames="1"/>
+        <CheckProfile Name="PDF/X-3" ignoreErrors="0" autoCheck="1" checkGlyphs="1" checkOrphans="1" checkOverflow="1" checkPictures="1" checkPartFilledImageFrames="0" checkResolution="1" checkTransparency="1" minResolution="144" maxResolution="2400" checkAnnotations="1" checkRasterPDF="1" checkForGIF="1" ignoreOffLayers="0" checkNotCMYKOrSpot="0" checkDeviceColorsAndOutputIntent="0" checkFontNotEmbedded="0" checkFontIsOpenType="0" checkAppliedMasterDifferentSide="1" checkEmptyTextFrames="1"/>
+        <CheckProfile Name="PDF/X-4" ignoreErrors="0" autoCheck="1" checkGlyphs="1" checkOrphans="1" checkOverflow="1" checkPictures="1" checkPartFilledImageFrames="0" checkResolution="1" checkTransparency="0" minResolution="144" maxResolution="2400" checkAnnotations="1" checkRasterPDF="1" checkForGIF="1" ignoreOffLayers="0" checkNotCMYKOrSpot="0" checkDeviceColorsAndOutputIntent="1" checkFontNotEmbedded="1" checkFontIsOpenType="0" checkAppliedMasterDifferentSide="1" checkEmptyTextFrames="1"/>
+        <CheckProfile Name="PostScript" ignoreErrors="0" autoCheck="1" checkGlyphs="1" checkOrphans="1" checkOverflow="1" checkPictures="1" checkPartFilledImageFrames="0" checkResolution="1" checkTransparency="1" minResolution="144" maxResolution="2400" checkAnnotations="0" checkRasterPDF="1" checkForGIF="1" ignoreOffLayers="0" checkNotCMYKOrSpot="0" checkDeviceColorsAndOutputIntent="0" checkFontNotEmbedded="0" checkFontIsOpenType="0" checkAppliedMasterDifferentSide="1" checkEmptyTextFrames="1"/>
+        <COLOR NAME="Black" SPACE="CMYK" C="0" M="0" Y="0" K="100"/>
+        <COLOR NAME="Blue" SPACE="RGB" R="0" G="0" B="255"/>
+        <COLOR NAME="Cool Black" SPACE="CMYK" C="60" M="0" Y="0" K="100"/>
+        <COLOR NAME="Cyan" SPACE="CMYK" C="100" M="0" Y="0" K="0"/>
+        <COLOR NAME="Green" SPACE="RGB" R="0" G="255" B="0"/>
+        <COLOR NAME="Magenta" SPACE="CMYK" C="0" M="100" Y="0" K="0"/>
+        <COLOR NAME="Red" SPACE="RGB" R="255" G="0" B="0"/>
+        <COLOR NAME="Registration" SPACE="CMYK" C="100" M="100" Y="100" K="100" Register="1"/>
+        <COLOR NAME="Rich Black" SPACE="CMYK" C="60" M="40" Y="40" K="100"/>
+        <COLOR NAME="Warm Black" SPACE="CMYK" C="0" M="60" Y="29.8039215686275" K="100"/>
+        <COLOR NAME="White" SPACE="CMYK" C="0" M="0" Y="0" K="0"/>
+        <COLOR NAME="Yellow" SPACE="CMYK" C="0" M="0" Y="100" K="0"/>
+        <HYPHEN/>
+        <CHARSTYLE CNAME="Default Character Style" DefaultStyle="1" FONT="Arial Regular" FONTSIZE="12" FEATURES="inherit" FCOLOR="Black" FSHADE="100" SCOLOR="Black" SSHADE="100" TXTSHX="5" TXTSHY="-5" TXTOUT="1" TXTULP="-0.1" TXTULW="-0.1" TXTSTP="-0.1" TXTSTW="-0.1" SCALEH="100" SCALEV="100" BASEO="0" KERN="0" LANGUAGE="en_US"/>
+        <STYLE NAME="Default Paragraph Style" DefaultStyle="1" ALIGN="0" LINESPMode="0" LINESP="15" INDENT="0" RMARGIN="0" FIRST="0" VOR="0" NACH="0" ParagraphEffectOffset="0" DROP="0" DROPLIN="2"/>
+        <TableStyle NAME="Default Table Style" DefaultStyle="1" FillColor="None" FillShade="100">
+            <TableBorderLeft>
+                <TableBorderLine Width="1" PenStyle="1" Color="Black" Shade="100"/>
+            </TableBorderLeft>
+            <TableBorderRight>
+                <TableBorderLine Width="1" PenStyle="1" Color="Black" Shade="100"/>
+            </TableBorderRight>
+            <TableBorderTop>
+                <TableBorderLine Width="1" PenStyle="1" Color="Black" Shade="100"/>
+            </TableBorderTop>
+            <TableBorderBottom>
+                <TableBorderLine Width="1" PenStyle="1" Color="Black" Shade="100"/>
+            </TableBorderBottom>
+        </TableStyle>
+        <CellStyle NAME="Default Cell Style" DefaultStyle="1" FillColor="None" FillShade="100" LeftPadding="1" RightPadding="1" TopPadding="1" BottomPadding="1">
+            <TableBorderLeft>
+                <TableBorderLine Width="1" PenStyle="1" Color="Black" Shade="100"/>
+            </TableBorderLeft>
+            <TableBorderRight>
+                <TableBorderLine Width="1" PenStyle="1" Color="Black" Shade="100"/>
+            </TableBorderRight>
+            <TableBorderTop>
+                <TableBorderLine Width="1" PenStyle="1" Color="Black" Shade="100"/>
+            </TableBorderTop>
+            <TableBorderBottom>
+                <TableBorderLine Width="1" PenStyle="1" Color="Black" Shade="100"/>
+            </TableBorderBottom>
+        </CellStyle>
+        <LAYERS NUMMER="0" LEVEL="0" NAME="Background" SICHTBAR="1" DRUCKEN="1" EDIT="1" SELECT="0" FLOW="1" TRANS="1" BLEND="0" OUTL="0" LAYERC="#000000"/>
+        <Printer firstUse="1" toFile="0" useAltPrintCommand="0" outputSeparations="0" useSpotColors="1" useColor="1" mirrorH="0" mirrorV="0" useICC="0" doGCR="0" doClip="0" setDevParam="0" useDocBleeds="1" cropMarks="0" bleedMarks="0" registrationMarks="0" colorMarks="0" includePDFMarks="1" PSLevel="3" PrintEngine="4" markLength="20.0016" markOffset="0" BleedTop="0" BleedLeft="0" BleedRight="0" BleedBottom="0" printer="Canon MX450 series FAX" filename="" separationName="All" printerCommand=""/>
+        <PDF firstUse="0" Thumbnails="0" Articles="0" Bookmarks="0" Compress="1" CMethod="0" Quality="0" EmbedPDF="0" MirrorH="0" MirrorV="0" Clip="0" rangeSel="0" rangeTxt="" RotateDeg="0" PresentMode="0" RecalcPic="0" FontEmbedding="0" Grayscale="0" RGBMode="1" UseProfiles="0" UseProfiles2="0" Binding="0" PicRes="300" Resolution="300" Version="14" Intent="1" Intent2="0" SolidP="sRGB IEC61966-2.1" ImageP="sRGB IEC61966-2.1" PrintP="Fogra27L CMYK Coated Press" InfoString="" BTop="0" BLeft="0" BRight="0" BBottom="0" useDocBleeds="0" cropMarks="0" bleedMarks="0" registrationMarks="0" colorMarks="0" docInfoMarks="0" markLength="0" markOffset="0" ImagePr="0" PassOwner="" PassUser="" Permissions="-4" Encrypt="0" UseLayers="0" UseLpi="0" UseSpotColors="1" doMultiFile="0" displayBookmarks="0" displayFullscreen="0" displayLayers="0" displayThumbs="0" hideMenuBar="0" hideToolBar="0" fitWindow="0" openAfterExport="0" PageLayout="0" openAction="">
+            <Fonts Name="Baskerville Old Face Regular"/>
+            <Fonts Name="Book Antiqua Bold"/>
+            <Fonts Name="Book Antiqua Italic"/>
+            <Fonts Name="Book Antiqua Regular"/>
+            <Subset Name="Arial Regular"/>
+            <Subset Name="Courier New Regular"/>
+            <LPI Color="" Frequency="10" Angle="0" SpotFunction="0"/>
+            <LPI Color="Black" Frequency="133" Angle="45" SpotFunction="3"/>
+            <LPI Color="Cyan" Frequency="133" Angle="105" SpotFunction="3"/>
+            <LPI Color="Magenta" Frequency="133" Angle="75" SpotFunction="3"/>
+            <LPI Color="Yellow" Frequency="133" Angle="90" SpotFunction="3"/>
+        </PDF>
+        <DocItemAttributes/>
+        <TablesOfContents/>
+        <NotesStyles>
+            <notesStyle Name="Default" Start="1" Endnotes="0" Type="Type_1_2_3" Range="0" Prefix="" Suffix=")" AutoHeight="1" AutoWidth="1" AutoRemove="1" AutoWeld="1" SuperNote="1" SuperMaster="1" MarksStyle="" NotesStyle=""/>
+        </NotesStyles>
+        <PageSets>
+            <Set Name="Single Page" FirstPage="0" Rows="1" Columns="1"/>
+            <Set Name="Double Sided" FirstPage="1" Rows="1" Columns="2">
+                <PageNames Name="Left Page"/>
+                <PageNames Name="Right Page"/>
+            </Set>
+            <Set Name="3-Fold" FirstPage="0" Rows="1" Columns="3">
+                <PageNames Name="Left Page"/>
+                <PageNames Name="Middle"/>
+                <PageNames Name="Right Page"/>
+            </Set>
+            <Set Name="4-Fold" FirstPage="0" Rows="1" Columns="4">
+                <PageNames Name="Left Page"/>
+                <PageNames Name="Middle Left"/>
+                <PageNames Name="Middle Right"/>
+                <PageNames Name="Right Page"/>
+            </Set>
+        </PageSets>
+        <Sections>
+            <Section Number="0" Name="0" From="0" To="12" Type="Type_1_2_3" Start="1" Reversed="0" Active="1" FillChar="0" FieldWidth="0"/>
+        </Sections>
+        <MASTERPAGE PAGEXPOS="100.0008" PAGEYPOS="20.0016" PAGEWIDTH="768" PAGEHEIGHT="768" BORDERLEFT="40" BORDERRIGHT="40" BORDERTOP="40" BORDERBOTTOM="40" NUM="0" NAM="Normal Left" MNAM="" Size="Custom" Orientation="0" LEFT="1" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
+        <MASTERPAGE PAGEXPOS="100.0008" PAGEYPOS="20.0016" PAGEWIDTH="768" PAGEHEIGHT="768" BORDERLEFT="40" BORDERRIGHT="40" BORDERTOP="40" BORDERBOTTOM="40" NUM="1" NAM="Normal Right" MNAM="" Size="Custom" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
+        <MASTERPAGE PAGEXPOS="100.0008" PAGEYPOS="20.0016" PAGEWIDTH="576" PAGEHEIGHT="576" BORDERLEFT="40" BORDERRIGHT="40" BORDERTOP="40" BORDERBOTTOM="40" NUM="2" NAM="item left page" MNAM="" Size="Custom" Orientation="0" LEFT="1" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
+        <MASTERPAGE PAGEXPOS="100.0008" PAGEYPOS="20.0016" PAGEWIDTH="576" PAGEHEIGHT="576" BORDERLEFT="40" BORDERRIGHT="40" BORDERTOP="40" BORDERBOTTOM="40" NUM="3" NAM="rightpage item" MNAM="" Size="Custom" Orientation="0" LEFT="1" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
+        <PAGE PAGEXPOS="676.0008" PAGEYPOS="20.0016" PAGEWIDTH="768" PAGEHEIGHT="768" BORDERLEFT="40" BORDERRIGHT="40" BORDERTOP="40" BORDERBOTTOM="40" NUM="0" NAM="" MNAM="Normal Right" Size="Custom" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
+        <PAGE PAGEXPOS="100.0008" PAGEYPOS="828.0048" PAGEWIDTH="576" PAGEHEIGHT="576" BORDERLEFT="40" BORDERRIGHT="40" BORDERTOP="40" BORDERBOTTOM="40" NUM="1" NAM="" MNAM="Normal Left" Size="Custom" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
+        <PAGE PAGEXPOS="676.0008" PAGEYPOS="828.0048" PAGEWIDTH="576" PAGEHEIGHT="576" BORDERLEFT="40" BORDERRIGHT="40" BORDERTOP="40" BORDERBOTTOM="40" NUM="2" NAM="" MNAM="Normal Right" Size="Custom" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
+        <PAGE PAGEXPOS="100.0008" PAGEYPOS="1444.008" PAGEWIDTH="576" PAGEHEIGHT="576" BORDERLEFT="40" BORDERRIGHT="40" BORDERTOP="40" BORDERBOTTOM="40" NUM="3" NAM="" MNAM="Normal Left" Size="Custom" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
+        <PAGE PAGEXPOS="676.0008" PAGEYPOS="1444.008" PAGEWIDTH="576" PAGEHEIGHT="576" BORDERLEFT="40" BORDERRIGHT="40" BORDERTOP="40" BORDERBOTTOM="40" NUM="4" NAM="" MNAM="Normal Right" Size="Custom" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
+        <PAGE PAGEXPOS="100.0008" PAGEYPOS="2060.0112" PAGEWIDTH="576" PAGEHEIGHT="576" BORDERLEFT="40" BORDERRIGHT="40" BORDERTOP="40" BORDERBOTTOM="40" NUM="5" NAM="" MNAM="item left page" Size="Custom" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
+        <PAGE PAGEXPOS="676.0008" PAGEYPOS="2060.0112" PAGEWIDTH="576" PAGEHEIGHT="576" BORDERLEFT="40" BORDERRIGHT="40" BORDERTOP="40" BORDERBOTTOM="40" NUM="6" NAM="" MNAM="rightpage item" Size="Custom" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
+        <PAGE PAGEXPOS="100.0008" PAGEYPOS="2676.0144" PAGEWIDTH="576" PAGEHEIGHT="576" BORDERLEFT="40" BORDERRIGHT="40" BORDERTOP="40" BORDERBOTTOM="40" NUM="7" NAM="" MNAM="item left page" Size="Custom" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
+        <PAGE PAGEXPOS="676.0008" PAGEYPOS="2676.0144" PAGEWIDTH="576" PAGEHEIGHT="576" BORDERLEFT="40" BORDERRIGHT="40" BORDERTOP="40" BORDERBOTTOM="40" NUM="8" NAM="" MNAM="rightpage item" Size="Custom" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
+        <PAGE PAGEXPOS="100.0008" PAGEYPOS="3292.0176" PAGEWIDTH="576" PAGEHEIGHT="576" BORDERLEFT="40" BORDERRIGHT="40" BORDERTOP="40" BORDERBOTTOM="40" NUM="9" NAM="" MNAM="item left page" Size="Custom" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
+        <PAGE PAGEXPOS="676.0008" PAGEYPOS="3292.0176" PAGEWIDTH="576" PAGEHEIGHT="576" BORDERLEFT="40" BORDERRIGHT="40" BORDERTOP="40" BORDERBOTTOM="40" NUM="10" NAM="" MNAM="rightpage item" Size="Custom" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
+        <PAGE PAGEXPOS="100.0008" PAGEYPOS="3908.0208" PAGEWIDTH="576" PAGEHEIGHT="576" BORDERLEFT="40" BORDERRIGHT="40" BORDERTOP="40" BORDERBOTTOM="40" NUM="11" NAM="" MNAM="item left page" Size="Custom" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
+        <PAGE PAGEXPOS="676.0008" PAGEYPOS="3908.0208" PAGEWIDTH="576" PAGEHEIGHT="576" BORDERLEFT="40" BORDERRIGHT="40" BORDERTOP="40" BORDERBOTTOM="40" NUM="12" NAM="" MNAM="rightpage item" Size="Custom" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
+        <MASTEROBJECT XPOS="140.878228782288" YPOS="541.151291512915" OwnPage="2" ItemID="213869152" PTYPE="4" WIDTH="39.5055350553505" HEIGHT="12.6715867158671" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L39.5055 0 L39.5055 12.6716 L0 12.6716 L0 0 Z" copath="M0 0 L39.5055 0 L39.5055 12.6716 L0 12.6716 L0 0 Z" OnMasterPage="item left page" gXpos="282240" gYpos="110642940.499179" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <var name="pgno" FONT="Baskerville Old Face Regular"/>
+                <trail/>
+            </StoryText>
+        </MASTEROBJECT>
+        <MASTEROBJECT XPOS="594.878228782288" YPOS="540.151291512915" OwnPage="3" ItemID="214361152" PTYPE="4" WIDTH="39.5055350553505" HEIGHT="12.6715867158671" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L39.5055 0 L39.5055 12.6716 L0 12.6716 L0 0 Z" copath="M0 0 L39.5055 0 L39.5055 12.6716 L0 12.6716 L0 0 Z" OnMasterPage="rightpage item" gXpos="10200384" gYpos="110889437.894382" gWidth="0" gHeight="0" ALIGN="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle ALIGN="0" LINESPMode="0" LINESP="15" FONT="Arial Regular" FONTSIZE="12" FEATURES="inherit" FCOLOR="Black" FSHADE="100" SCOLOR="Black" SSHADE="100" TXTSHX="5" TXTSHY="-5" TXTOUT="1" TXTULP="-0.1" TXTULW="-0.1" TXTSTP="-0.1" TXTSTW="-0.1" SCALEH="100" SCALEV="100" BASEO="0"/>
+                <var name="pgno" FONT="Baskerville Old Face Regular"/>
+                <para ALIGN="2"/>
+            </StoryText>
+        </MASTEROBJECT>
+        <PAGEOBJECT XPOS="1107" YPOS="99" OwnPage="0" ItemID="214344800" PTYPE="4" WIDTH="265.5" HEIGHT="63" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L265.5 0 L265.5 63 L0 63 L0 0 Z" copath="M0 0 L265.5 0 L265.5 63 L0 63 L0 0 Z" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <ITEXT FONT="Baskerville Old Face Regular" FONTSIZE="15" CH="AVATAR Fall 2024"/>
+                <trail/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="257.158671586716" YPOS="974.966789667897" OwnPage="1" ItemID="214396736" PTYPE="4" WIDTH="321.261992619926" HEIGHT="215.416974169742" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L321.262 0 L321.262 215.417 L0 215.417 L0 0 Z" copath="M0 0 L321.262 0 L321.262 215.417 L0 215.417 L0 0 Z" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <ITEXT CH="letter from the editors"/>
+                <para/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="851.977859778598" YPOS="980.184501845018" OwnPage="2" ItemID="214352720" PTYPE="4" WIDTH="263.121771217712" HEIGHT="187.837638376384" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L263.122 0 L263.122 187.838 L0 187.838 L0 0 Z" copath="M0 0 L263.122 0 L263.122 187.838 L0 187.838 L0 0 Z" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <ITEXT CH="quote"/>
+                <trail/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="292.937269372694" YPOS="1604.07380073801" OwnPage="3" ItemID="214328448" PTYPE="4" WIDTH="166.221402214022" HEIGHT="99.1365313653137" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L166.221 0 L166.221 99.1365 L0 99.1365 L0 0 Z" copath="M0 0 L166.221 0 L166.221 99.1365 L0 99.1365 L0 0 Z" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <ITEXT CH="table of contents"/>
+                <trail/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="854.959409594096" YPOS="1608.54612546125" OwnPage="4" ItemID="214448704" PTYPE="4" WIDTH="296.664206642066" HEIGHT="225.107011070111" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L296.664 0 L296.664 225.107 L0 225.107 L0 0 Z" copath="M0 0 L296.664 0 L296.664 225.107 L0 225.107 L0 0 Z" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <ITEXT CH="table of contents 2"/>
+                <trail/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="149.07749077" YPOS="2155.47085461" OwnPage="5" ItemID="214486864" PTYPE="4" WIDTH="415.1808118" HEIGHT="416.9815498" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L415.181 0 L415.181 416.982 L0 416.982 L0 0 Z" copath="M0 0 L415.181 0 L415.181 416.982 L0 416.982 L0 0 Z" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <ITEXT FONT="Baskerville Old Face Regular" CH="jesus and jeff buckley and sylvia plath:"/>
+                <para/>
+                <ITEXT FONT="Baskerville Old Face Regular" CH="let me sit at your table and miss how"/>
+                <para/>
+                <ITEXT FONT="Baskerville Old Face Regular" CH="it felt to be fourteen"/>
+                <para/>
+                <ITEXT FONT="Baskerville Old Face Regular" CH="and relish in the feeling of being"/>
+                <para/>
+                <ITEXT FONT="Baskerville Old Face Regular" CH="craven and faded and twenty two."/>
+                <para/>
+                <ITEXT FONT="Baskerville Old Face Regular" CH="let’s eat,"/>
+                <para/>
+                <ITEXT FONT="Baskerville Old Face Regular" CH="exonerated and in our pajama pants."/>
+                <para/>
+                <para/>
+                <ITEXT FONT="Baskerville Old Face Regular" CH="(they know how"/>
+                <para/>
+                <ITEXT FONT="Baskerville Old Face Regular" CH="poetry strikes like the skip in your heart"/>
+                <para/>
+                <ITEXT FONT="Baskerville Old Face Regular" CH="when you miscount the steps you’ve"/>
+                <para/>
+                <ITEXT FONT="Baskerville Old Face Regular" CH="walked down for years and"/>
+                <para/>
+                <ITEXT FONT="Baskerville Old Face Regular" CH="slip on the second-to-last one)"/>
+                <para/>
+                <para/>
+                <ITEXT FONT="Baskerville Old Face Regular" CH="let me breathe in your shirt collar"/>
+                <para/>
+                <ITEXT FONT="Baskerville Old Face Regular" CH="before you must go"/>
+                <para/>
+                <ITEXT FONT="Baskerville Old Face Regular" CH="and leave saltwater on your shoulders"/>
+                <para/>
+                <ITEXT FONT="Baskerville Old Face Regular" CH="as my parting gift."/>
+                <para/>
+                <ITEXT FONT="Baskerville Old Face Regular" CH="let me squander away my years"/>
+                <para/>
+                <ITEXT FONT="Baskerville Old Face Regular" CH="surrounded by soiled napkins and"/>
+                <para/>
+                <ITEXT FONT="Baskerville Old Face Regular" CH="missing pairs of earrings;"/>
+                <para/>
+                <ITEXT FONT="Baskerville Old Face Regular" CH="be my forgotten baby angel that i place"/>
+                <para/>
+                <ITEXT FONT="Baskerville Old Face Regular" CH="so gently"/>
+                <para/>
+                <ITEXT FONT="Baskerville Old Face Regular" CH="in a cabinet, never glanced at again."/>
+                <trail/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="149.07749077" YPOS="2108.58524576" OwnPage="5" ItemID="214335888" PTYPE="4" WIDTH="324.9889299" HEIGHT="40.99630996" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L324.989 0 L324.989 40.9963 L0 40.9963 L0 0 Z" copath="M0 0 L324.989 0 L324.989 40.9963 L0 40.9963 L0 0 Z" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <ITEXT FONT="Baskerville Old Face Regular" FONTSIZE="16" CH="dinnerparty"/>
+                <para/>
+                <ITEXT FONT="Baskerville Old Face Regular" FONTSIZE="14" CH="Holli Kobialka"/>
+                <trail/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="784.0774908" YPOS="2139.47085461" OwnPage="6" ItemID="214341264" PTYPE="4" WIDTH="415.1808118" HEIGHT="449.167521773764" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L415.181 0 L415.181 449.168 L0 449.168 L0 0 Z" copath="M0 0 L415.181 0 L415.181 449.168 L0 449.168 L0 0 Z" gXpos="0" gYpos="0" gWidth="0" gHeight="0" ALIGN="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle ALIGN="0" LINESPMode="0" LINESP="15" FONT="Arial Regular" FONTSIZE="12" FEATURES="inherit" FCOLOR="Black" FSHADE="100" SCOLOR="Black" SSHADE="100" TXTSHX="5" TXTSHY="-5" TXTOUT="1" TXTULP="-0.1" TXTULW="-0.1" TXTSTP="-0.1" TXTSTW="-0.1" SCALEH="100" SCALEV="100" BASEO="0"/>
+                <ITEXT FONT="Baskerville Old Face Regular" FONTSIZE="12" FEATURES="inherit" FCOLOR="Black" FSHADE="100" SCOLOR="Black" SSHADE="100" TXTSHX="5" TXTSHY="-5" TXTOUT="1" TXTULP="-0.1" TXTULW="-0.1" TXTSTP="-0.1" TXTSTW="-0.1" SCALEH="100" SCALEV="100" BASEO="0" CH="The silence envelops me like a deathly shroud."/>
+                <para/>
+                <ITEXT FONT="Baskerville Old Face Regular" FONTSIZE="12" FEATURES="inherit" FCOLOR="Black" FSHADE="100" SCOLOR="Black" SSHADE="100" TXTSHX="5" TXTSHY="-5" TXTOUT="1" TXTULP="-0.1" TXTULW="-0.1" TXTSTP="-0.1" TXTSTW="-0.1" SCALEH="100" SCALEV="100" BASEO="0" CH="The walls press in against me, there is no escape."/>
+                <para/>
+                <ITEXT FONT="Baskerville Old Face Regular" FONTSIZE="12" FEATURES="inherit" FCOLOR="Black" FSHADE="100" SCOLOR="Black" SSHADE="100" TXTSHX="5" TXTSHY="-5" TXTOUT="1" TXTULP="-0.1" TXTULW="-0.1" TXTSTP="-0.1" TXTSTW="-0.1" SCALEH="100" SCALEV="100" BASEO="0" CH="Awakening to find myself ensconced in my casket,"/>
+                <para/>
+                <ITEXT FONT="Baskerville Old Face Regular" FONTSIZE="12" FEATURES="inherit" FCOLOR="Black" FSHADE="100" SCOLOR="Black" SSHADE="100" TXTSHX="5" TXTSHY="-5" TXTOUT="1" TXTULP="-0.1" TXTULW="-0.1" TXTSTP="-0.1" TXTSTW="-0.1" SCALEH="100" SCALEV="100" BASEO="0" CH="a shudder courses through my chilled bones."/>
+                <para/>
+                <para/>
+                <ITEXT FONT="Baskerville Old Face Regular" FONTSIZE="12" FEATURES="inherit" FCOLOR="Black" FSHADE="100" SCOLOR="Black" SSHADE="100" TXTSHX="5" TXTSHY="-5" TXTOUT="1" TXTULP="-0.1" TXTULW="-0.1" TXTSTP="-0.1" TXTSTW="-0.1" SCALEH="100" SCALEV="100" BASEO="0" CH="How long must I have appeared dead before busy hands"/>
+                <para/>
+                <ITEXT FONT="Baskerville Old Face Regular" FONTSIZE="12" FEATURES="inherit" FCOLOR="Black" FSHADE="100" SCOLOR="Black" SSHADE="100" TXTSHX="5" TXTSHY="-5" TXTOUT="1" TXTULP="-0.1" TXTULW="-0.1" TXTSTP="-0.1" TXTSTW="-0.1" SCALEH="100" SCALEV="100" BASEO="0" CH="entombed me? Not long enough?"/>
+                <para/>
+                <para/>
+                <ITEXT FONT="Baskerville Old Face Regular" FONTSIZE="12" FEATURES="inherit" FCOLOR="Black" FSHADE="100" SCOLOR="Black" SSHADE="100" TXTSHX="5" TXTSHY="-5" TXTOUT="1" TXTULP="-0.1" TXTULW="-0.1" TXTSTP="-0.1" TXTSTW="-0.1" SCALEH="100" SCALEV="100" BASEO="0" CH="No remembrance of life preceding this in-between state."/>
+                <para/>
+                <ITEXT FONT="Baskerville Old Face Regular" FONTSIZE="12" FEATURES="inherit" FCOLOR="Black" FSHADE="100" SCOLOR="Black" SSHADE="100" TXTSHX="5" TXTSHY="-5" TXTOUT="1" TXTULP="-0.1" TXTULW="-0.1" TXTSTP="-0.1" TXTSTW="-0.1" SCALEH="100" SCALEV="100" BASEO="0" CH="No hope for a future life to live out to an old age."/>
+                <para/>
+                <ITEXT FONT="Baskerville Old Face Regular" FONTSIZE="12" FEATURES="inherit" FCOLOR="Black" FSHADE="100" SCOLOR="Black" SSHADE="100" TXTSHX="5" TXTSHY="-5" TXTOUT="1" TXTULP="-0.1" TXTULW="-0.1" TXTSTP="-0.1" TXTSTW="-0.1" SCALEH="100" SCALEV="100" BASEO="0" CH="Only the here and the now, restricted by depth,"/>
+                <para/>
+                <ITEXT FONT="Baskerville Old Face Regular" FONTSIZE="12" FEATURES="inherit" FCOLOR="Black" FSHADE="100" SCOLOR="Black" SSHADE="100" TXTSHX="5" TXTSHY="-5" TXTOUT="1" TXTULP="-0.1" TXTULW="-0.1" TXTSTP="-0.1" TXTSTW="-0.1" SCALEH="100" SCALEV="100" BASEO="0" CH="and breadth, and each and every breath."/>
+                <para/>
+                <para/>
+                <ITEXT FONT="Baskerville Old Face Regular" FONTSIZE="12" FEATURES="inherit" FCOLOR="Black" FSHADE="100" SCOLOR="Black" SSHADE="100" TXTSHX="5" TXTSHY="-5" TXTOUT="1" TXTULP="-0.1" TXTULW="-0.1" TXTSTP="-0.1" TXTSTW="-0.1" SCALEH="100" SCALEV="100" BASEO="0" CH="Time trickles away as my clawing fingers seek"/>
+                <para/>
+                <ITEXT FONT="Baskerville Old Face Regular" FONTSIZE="12" FEATURES="inherit" FCOLOR="Black" FSHADE="100" SCOLOR="Black" SSHADE="100" TXTSHX="5" TXTSHY="-5" TXTOUT="1" TXTULP="-0.1" TXTULW="-0.1" TXTSTP="-0.1" TXTSTW="-0.1" SCALEH="100" SCALEV="100" BASEO="0" CH="to rend the silk that thwarts my escape."/>
+                <para/>
+                <para/>
+                <ITEXT FONT="Baskerville Old Face Regular" FONTSIZE="12" FEATURES="inherit" FCOLOR="Black" FSHADE="100" SCOLOR="Black" SSHADE="100" TXTSHX="5" TXTSHY="-5" TXTOUT="1" TXTULP="-0.1" TXTULW="-0.1" TXTSTP="-0.1" TXTSTW="-0.1" SCALEH="100" SCALEV="100" BASEO="0" CH="Clamoring nails score the pine, hoping to breach it."/>
+                <para/>
+                <ITEXT FONT="Baskerville Old Face Regular" FONTSIZE="12" FEATURES="inherit" FCOLOR="Black" FSHADE="100" SCOLOR="Black" SSHADE="100" TXTSHX="5" TXTSHY="-5" TXTOUT="1" TXTULP="-0.1" TXTULW="-0.1" TXTSTP="-0.1" TXTSTW="-0.1" SCALEH="100" SCALEV="100" BASEO="0" CH="Yet to what avail? None."/>
+                <para/>
+                <ITEXT FONT="Baskerville Old Face Regular" FONTSIZE="12" FEATURES="inherit" FCOLOR="Black" FSHADE="100" SCOLOR="Black" SSHADE="100" TXTSHX="5" TXTSHY="-5" TXTOUT="1" TXTULP="-0.1" TXTULW="-0.1" TXTSTP="-0.1" TXTSTW="-0.1" SCALEH="100" SCALEV="100" BASEO="0" CH="Gasping for sweet oxygen, I begin my spiral downward."/>
+                <para/>
+                <ITEXT FONT="Baskerville Old Face Regular" FONTSIZE="12" FEATURES="inherit" FCOLOR="Black" FSHADE="100" SCOLOR="Black" SSHADE="100" TXTSHX="5" TXTSHY="-5" TXTOUT="1" TXTULP="-0.1" TXTULW="-0.1" TXTSTP="-0.1" TXTSTW="-0.1" SCALEH="100" SCALEV="100" BASEO="0" CH="This is the only me I will ever know. The only time I may cherish."/>
+                <para/>
+                <para/>
+                <ITEXT FONT="Baskerville Old Face Regular" FONTSIZE="12" FEATURES="inherit" FCOLOR="Black" FSHADE="100" SCOLOR="Black" SSHADE="100" TXTSHX="5" TXTSHY="-5" TXTOUT="1" TXTULP="-0.1" TXTULW="-0.1" TXTSTP="-0.1" TXTSTW="-0.1" SCALEH="100" SCALEV="100" BASEO="0" CH="Must I go out of this world with a mere whimper?"/>
+                <para/>
+                <ITEXT FONT="Baskerville Old Face Regular" FONTSIZE="12" FEATURES="inherit" FCOLOR="Black" FSHADE="100" SCOLOR="Black" SSHADE="100" TXTSHX="5" TXTSHY="-5" TXTOUT="1" TXTULP="-0.1" TXTULW="-0.1" TXTSTP="-0.1" TXTSTW="-0.1" SCALEH="100" SCALEV="100" BASEO="0" CH="No, not this corpse! I scream, I kick, I scratch, I howl,"/>
+                <para/>
+                <ITEXT FONT="Baskerville Old Face Regular" FONTSIZE="12" FEATURES="inherit" FCOLOR="Black" FSHADE="100" SCOLOR="Black" SSHADE="100" TXTSHX="5" TXTSHY="-5" TXTOUT="1" TXTULP="-0.1" TXTULW="-0.1" TXTSTP="-0.1" TXTSTW="-0.1" SCALEH="100" SCALEV="100" BASEO="0" CH="Till I am no more."/>
+                <trail/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="876.0774908" YPOS="2108.58524576" OwnPage="6" ItemID="215579968" PTYPE="4" WIDTH="324.9889299" HEIGHT="40.99630996" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L324.989 0 L324.989 40.9963 L0 40.9963 L0 0 Z" copath="M0 0 L324.989 0 L324.989 40.9963 L0 40.9963 L0 0 Z" gXpos="0" gYpos="0" gWidth="0" gHeight="0" ALIGN="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle ALIGN="0" LINESPMode="0" LINESP="15" FONT="Arial Regular" FONTSIZE="12" FEATURES="inherit" FCOLOR="Black" FSHADE="100" SCOLOR="Black" SSHADE="100" TXTSHX="5" TXTSHY="-5" TXTOUT="1" TXTULP="-0.1" TXTULW="-0.1" TXTSTP="-0.1" TXTSTW="-0.1" SCALEH="100" SCALEV="100" BASEO="0"/>
+                <ITEXT FONT="Baskerville Old Face Regular" FONTSIZE="16" FEATURES="inherit" FCOLOR="Black" FSHADE="100" SCOLOR="Black" SSHADE="100" TXTSHX="5" TXTSHY="-5" TXTOUT="1" TXTULP="-0.1" TXTULW="-0.1" TXTSTP="-0.1" TXTSTW="-0.1" SCALEH="100" SCALEV="100" BASEO="0" CH="Deathly Shroud"/>
+                <para ALIGN="2"/>
+                <ITEXT FONT="Baskerville Old Face Regular" FONTSIZE="14" CH="Maggie Brace"/>
+                <trail ALIGN="2"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="149.07749077" YPOS="2771.47405461" OwnPage="7" ItemID="215585344" PTYPE="4" WIDTH="248.374636663628" HEIGHT="416.9815498" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L248.375 0 L248.375 416.982 L0 416.982 L0 0 Z" copath="M0 0 L248.375 0 L248.375 416.982 L0 416.982 L0 0 Z" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <ITEXT FONT="Baskerville Old Face Regular" FONTSIZE="11" CH="Oh blood of my blood,"/>
+                <para/>
+                <ITEXT FONT="Baskerville Old Face Regular" FONTSIZE="11" CH="What sanguine sorrow you bring with you"/>
+                <para/>
+                <ITEXT FONT="Baskerville Old Face Regular" FONTSIZE="11" CH="With your trailing cloak of deepest blue"/>
+                <para/>
+                <ITEXT FONT="Baskerville Old Face Regular" FONTSIZE="11" CH="A bladed barb with every word"/>
+                <para/>
+                <para/>
+                <ITEXT FONT="Baskerville Old Face Regular" FONTSIZE="11" CH="A day of suffering, strife and ruin"/>
+                <para/>
+                <ITEXT FONT="Baskerville Old Face Regular" FONTSIZE="11" CH="Embroidered to your very skin"/>
+                <para/>
+                <ITEXT FONT="Baskerville Old Face Regular" FONTSIZE="11" CH="Is it so wrong to share this wretched joy"/>
+                <para/>
+                <ITEXT FONT="Baskerville Old Face Regular" FONTSIZE="11" CH="To lay it softly upon your kin?"/>
+                <para/>
+                <para/>
+                <ITEXT FONT="Baskerville Old Face Regular" FONTSIZE="11" CH="Your sword yet pierces, again and again"/>
+                <para/>
+                <ITEXT FONT="Baskerville Old Face Regular" FONTSIZE="11" CH="But do you thrust forth with intention?"/>
+                <para/>
+                <ITEXT FONT="Baskerville Old Face Regular" FONTSIZE="11" CH="Do you know this heart's distention?"/>
+                <para/>
+                <ITEXT FONT="Baskerville Old Face Regular" FONTSIZE="11" CH="Do you even see the blade in your hand?"/>
+                <para/>
+                <para/>
+                <ITEXT FONT="Baskerville Old Face Regular" FONTSIZE="11" CH="What fist is this that lays the bruise?"/>
+                <para/>
+                <ITEXT FONT="Baskerville Old Face Regular" FONTSIZE="11" CH="Tis yours, but that is hardly of concern"/>
+                <para/>
+                <ITEXT FONT="Baskerville Old Face Regular" FONTSIZE="11" CH="For what have I done to deserve this?"/>
+                <para/>
+                <ITEXT FONT="Baskerville Old Face Regular" FONTSIZE="11" CH="I would truly love to learn"/>
+                <para/>
+                <para/>
+                <ITEXT FONT="Baskerville Old Face Regular" FONTSIZE="11" CH="When fist meets chest I wish it could yet go deeper"/>
+                <para/>
+                <ITEXT FONT="Baskerville Old Face Regular" FONTSIZE="11" CH="Reach further within my breast"/>
+                <para/>
+                <ITEXT FONT="Baskerville Old Face Regular" FONTSIZE="11" CH="To pull out this aching flame that burns me so"/>
+                <para/>
+                <ITEXT FONT="Baskerville Old Face Regular" FONTSIZE="11" CH="To crush it just as it was made"/>
+                <para/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="149.07749077" YPOS="2724.58844576" OwnPage="7" ItemID="214323360" PTYPE="4" WIDTH="324.9889299" HEIGHT="40.99630996" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L324.989 0 L324.989 40.9963 L0 40.9963 L0 0 Z" copath="M0 0 L324.989 0 L324.989 40.9963 L0 40.9963 L0 0 Z" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <ITEXT FONT="Baskerville Old Face Regular" FONTSIZE="16" CH="Prometheus' Slow Fire"/>
+                <para/>
+                <ITEXT FONT="Baskerville Old Face Regular" FONTSIZE="16" CH="Natalie Pitts"/>
+                <trail/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="828.558322123894" YPOS="2772.47405461" OwnPage="8" ItemID="214366528" PTYPE="4" WIDTH="254.017699115044" HEIGHT="449.167521773764" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L254.018 0 L254.018 449.168 L0 449.168 L0 0 Z" copath="M0 0 L254.018 0 L254.018 449.168 L0 449.168 L0 0 Z" gXpos="44.4808313238938" gYpos="17" gWidth="0" gHeight="0" ALIGN="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle ALIGN="0" LINESPMode="0" LINESP="15" FONT="Arial Regular" FONTSIZE="12" FEATURES="inherit" FCOLOR="Black" FSHADE="100" SCOLOR="Black" SSHADE="100" TXTSHX="5" TXTSHY="-5" TXTOUT="1" TXTULP="-0.1" TXTULW="-0.1" TXTSTP="-0.1" TXTSTW="-0.1" SCALEH="100" SCALEV="100" BASEO="0"/>
+                <tab FONT="Baskerville Old Face Regular" FONTSIZE="12" FEATURES="inherit" FCOLOR="Black" FSHADE="100" SCOLOR="Black" SSHADE="100" TXTSHX="5" TXTSHY="-5" TXTOUT="1" TXTULP="-0.1" TXTULW="-0.1" TXTSTP="-0.1" TXTSTW="-0.1" SCALEH="100" SCALEV="100" BASEO="0"/>
+                <ITEXT FONT="Baskerville Old Face Regular" FONTSIZE="12" FEATURES="inherit" FCOLOR="Black" FSHADE="100" SCOLOR="Black" SSHADE="100" TXTSHX="5" TXTSHY="-5" TXTOUT="1" TXTULP="-0.1" TXTULW="-0.1" TXTSTP="-0.1" TXTSTW="-0.1" SCALEH="100" SCALEV="100" BASEO="0" CH="Tell me why I'm full of hatred, always out to cause a problem. I'm full of shame and anguish, maybe things aren't as they seem. "/>
+                <para/>
+                <para/>
+                <ITEXT FONT="Baskerville Old Face Regular" FONTSIZE="12" FEATURES="inherit" FCOLOR="Black" FSHADE="100" SCOLOR="Black" SSHADE="100" TXTSHX="5" TXTSHY="-5" TXTOUT="1" TXTULP="-0.1" TXTULW="-0.1" TXTSTP="-0.1" TXTSTW="-0.1" SCALEH="100" SCALEV="100" BASEO="0" CH="When I woke up as a boy, I didn't feel solemn, and when I fell asleep, Instead of thinking, I could dream. "/>
+                <para/>
+                <para/>
+                <ITEXT FONT="Baskerville Old Face Regular" FONTSIZE="12" FEATURES="inherit" FCOLOR="Black" FSHADE="100" SCOLOR="Black" SSHADE="100" TXTSHX="5" TXTSHY="-5" TXTOUT="1" TXTULP="-0.1" TXTULW="-0.1" TXTSTP="-0.1" TXTSTW="-0.1" SCALEH="100" SCALEV="100" BASEO="0" CH="Instead of hating the world, I grew to hate myself, but the charade was in the mirror, that's the world's "/>
+                <para/>
+                <ITEXT FONT="Baskerville Old Face Regular" FONTSIZE="12" FEATURES="inherit" FCOLOR="Black" FSHADE="100" SCOLOR="Black" SSHADE="100" TXTSHX="5" TXTSHY="-5" TXTOUT="1" TXTULP="-0.1" TXTULW="-0.1" TXTSTP="-0.1" TXTSTW="-0.1" SCALEH="100" SCALEV="100" BASEO="0" CH="cold scheme. "/>
+                <para/>
+                <para/>
+                <ITEXT FONT="Baskerville Old Face Regular" FONTSIZE="12" FEATURES="inherit" FCOLOR="Black" FSHADE="100" SCOLOR="Black" SSHADE="100" TXTSHX="5" TXTSHY="-5" TXTOUT="1" TXTULP="-0.1" TXTULW="-0.1" TXTSTP="-0.1" TXTSTW="-0.1" SCALEH="100" SCALEV="100" BASEO="0" CH="When you resent those you love, you injure yourself with doubt. Instead of processing, you shut down, and leave the problems strewn about."/>
+                <para/>
+                <ITEXT FONT="Baskerville Old Face Regular" FONTSIZE="12" FEATURES="inherit" FCOLOR="Black" FSHADE="100" SCOLOR="Black" SSHADE="100" TXTSHX="5" TXTSHY="-5" TXTOUT="1" TXTULP="-0.1" TXTULW="-0.1" TXTSTP="-0.1" TXTSTW="-0.1" SCALEH="100" SCALEV="100" BASEO="0" CH=" "/>
+                <para/>
+                <ITEXT FONT="Baskerville Old Face Regular" FONTSIZE="12" FEATURES="inherit" FCOLOR="Black" FSHADE="100" SCOLOR="Black" SSHADE="100" TXTSHX="5" TXTSHY="-5" TXTOUT="1" TXTULP="-0.1" TXTULW="-0.1" TXTSTP="-0.1" TXTSTW="-0.1" SCALEH="100" SCALEV="100" BASEO="0" CH="What you learn is to pick them up, because it's "/>
+                <para/>
+                <ITEXT FONT="Baskerville Old Face Regular" FONTSIZE="12" FEATURES="inherit" FCOLOR="Black" FSHADE="100" SCOLOR="Black" SSHADE="100" TXTSHX="5" TXTSHY="-5" TXTOUT="1" TXTULP="-0.1" TXTULW="-0.1" TXTSTP="-0.1" TXTSTW="-0.1" SCALEH="100" SCALEV="100" BASEO="0" CH="easier to leave, but the honor is in knowing that no "/>
+                <para/>
+                <ITEXT FONT="Baskerville Old Face Regular" FONTSIZE="12" FEATURES="inherit" FCOLOR="Black" FSHADE="100" SCOLOR="Black" SSHADE="100" TXTSHX="5" TXTSHY="-5" TXTOUT="1" TXTULP="-0.1" TXTULW="-0.1" TXTSTP="-0.1" TXTSTW="-0.1" SCALEH="100" SCALEV="100" BASEO="0" CH="fruit comes with no burden to heave. "/>
+                <para/>
+                <para/>
+                <ITEXT FONT="Baskerville Old Face Regular" FONTSIZE="12" FEATURES="inherit" FCOLOR="Black" FSHADE="100" SCOLOR="Black" SSHADE="100" TXTSHX="5" TXTSHY="-5" TXTOUT="1" TXTULP="-0.1" TXTULW="-0.1" TXTSTP="-0.1" TXTSTW="-0.1" SCALEH="100" SCALEV="100" BASEO="0" CH="Love is heavy, hate is light, both take intention, "/>
+                <para/>
+                <ITEXT FONT="Baskerville Old Face Regular" FONTSIZE="12" FEATURES="inherit" FCOLOR="Black" FSHADE="100" SCOLOR="Black" SSHADE="100" TXTSHX="5" TXTSHY="-5" TXTOUT="1" TXTULP="-0.1" TXTULW="-0.1" TXTSTP="-0.1" TXTSTW="-0.1" SCALEH="100" SCALEV="100" BASEO="0" CH="only one takes a fight. "/>
+                <para/>
+                <para/>
+                <ITEXT FONT="Baskerville Old Face Regular" FONTSIZE="12" FEATURES="inherit" FCOLOR="Black" FSHADE="100" SCOLOR="Black" SSHADE="100" TXTSHX="5" TXTSHY="-5" TXTOUT="1" TXTULP="-0.1" TXTULW="-0.1" TXTSTP="-0.1" TXTSTW="-0.1" SCALEH="100" SCALEV="100" BASEO="0" CH="Instead of leaving the problems behind, and bludgeoning yourself into a cycle, take the weight, surrender to your revival. "/>
+                <para/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="876.0774908" YPOS="2724.58844576" OwnPage="8" ItemID="214376016" PTYPE="4" WIDTH="324.9889299" HEIGHT="40.99630996" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L324.989 0 L324.989 40.9963 L0 40.9963 L0 0 Z" copath="M0 0 L324.989 0 L324.989 40.9963 L0 40.9963 L0 0 Z" gXpos="0" gYpos="0" gWidth="0" gHeight="0" ALIGN="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle ALIGN="0" LINESPMode="0" LINESP="15" FONT="Arial Regular" FONTSIZE="12" FEATURES="inherit" FCOLOR="Black" FSHADE="100" SCOLOR="Black" SSHADE="100" TXTSHX="5" TXTSHY="-5" TXTOUT="1" TXTULP="-0.1" TXTULW="-0.1" TXTSTP="-0.1" TXTSTW="-0.1" SCALEH="100" SCALEV="100" BASEO="0"/>
+                <ITEXT FONT="Baskerville Old Face Regular" FONTSIZE="16" FEATURES="inherit" FCOLOR="Black" FSHADE="100" SCOLOR="Black" SSHADE="100" TXTSHX="5" TXTSHY="-5" TXTOUT="1" TXTULP="-0.1" TXTULW="-0.1" TXTSTP="-0.1" TXTSTW="-0.1" SCALEH="100" SCALEV="100" BASEO="0" CH="Healing"/>
+                <para ALIGN="2"/>
+                <ITEXT FONT="Baskerville Old Face Regular" FONTSIZE="14" CH="Strummer Condayan"/>
+                <trail ALIGN="2"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="149.07749077" YPOS="3387.47725461" OwnPage="9" ItemID="208728096" PTYPE="4" WIDTH="415.1808118" HEIGHT="416.9815498" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L415.181 0 L415.181 416.982 L0 416.982 L0 0 Z" copath="M0 0 L415.181 0 L415.181 416.982 L0 416.982 L0 0 Z" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <ITEXT FONT="Baskerville Old Face Regular" CH="when birds smash into windows"/>
+                <para/>
+                <para/>
+                <ITEXT FONT="Baskerville Old Face Regular" CH="people curse at them for denting the glass."/>
+                <para/>
+                <para/>
+                <ITEXT FONT="Baskerville Old Face Regular" CH="their deaths are deemed deserved"/>
+                <para/>
+                <para/>
+                <ITEXT FONT="Baskerville Old Face Regular" CH="a reward for pure stupidity."/>
+                <para/>
+                <para/>
+                <ITEXT FONT="Baskerville Old Face Regular" CH="their lives ended before they fell."/>
+                <para/>
+                <para/>
+                <ITEXT FONT="Baskerville Old Face Regular" CH="today, i am a bird."/>
+                <trail/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="149.07749077" YPOS="3340.59164576" OwnPage="9" ItemID="207901712" PTYPE="4" WIDTH="324.9889299" HEIGHT="40.99630996" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L324.989 0 L324.989 40.9963 L0 40.9963 L0 0 Z" copath="M0 0 L324.989 0 L324.989 40.9963 L0 40.9963 L0 0 Z" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <ITEXT FONT="Baskerville Old Face Regular" FONTSIZE="16" CH="birds"/>
+                <para/>
+                <ITEXT FONT="Baskerville Old Face Regular" FONTSIZE="14" CH="Karli Applestein"/>
+                <trail/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="784.0774908" YPOS="3371.47725461" OwnPage="10" ItemID="208849088" PTYPE="4" WIDTH="415.1808118" HEIGHT="449.167521773764" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L415.181 0 L415.181 449.168 L0 449.168 L0 0 Z" copath="M0 0 L415.181 0 L415.181 449.168 L0 449.168 L0 0 Z" gXpos="0" gYpos="0" gWidth="0" gHeight="0" ALIGN="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle ALIGN="0" LINESPMode="0" LINESP="15" FONT="Arial Regular" FONTSIZE="12" FEATURES="inherit" FCOLOR="Black" FSHADE="100" SCOLOR="Black" SSHADE="100" TXTSHX="5" TXTSHY="-5" TXTOUT="1" TXTULP="-0.1" TXTULW="-0.1" TXTSTP="-0.1" TXTSTW="-0.1" SCALEH="100" SCALEV="100" BASEO="0"/>
+                <ITEXT FONT="Baskerville Old Face Regular" FONTSIZE="12" FEATURES="inherit" FCOLOR="Black" FSHADE="100" SCOLOR="Black" SSHADE="100" TXTSHX="5" TXTSHY="-5" TXTOUT="1" TXTULP="-0.1" TXTULW="-0.1" TXTSTP="-0.1" TXTSTW="-0.1" SCALEH="100" SCALEV="100" BASEO="0" CH="The silence envelops me like a deathly shroud."/>
+                <para/>
+                <ITEXT FONT="Baskerville Old Face Regular" FONTSIZE="12" FEATURES="inherit" FCOLOR="Black" FSHADE="100" SCOLOR="Black" SSHADE="100" TXTSHX="5" TXTSHY="-5" TXTOUT="1" TXTULP="-0.1" TXTULW="-0.1" TXTSTP="-0.1" TXTSTW="-0.1" SCALEH="100" SCALEV="100" BASEO="0" CH="The walls press in against me, there is no escape."/>
+                <para/>
+                <ITEXT FONT="Baskerville Old Face Regular" FONTSIZE="12" FEATURES="inherit" FCOLOR="Black" FSHADE="100" SCOLOR="Black" SSHADE="100" TXTSHX="5" TXTSHY="-5" TXTOUT="1" TXTULP="-0.1" TXTULW="-0.1" TXTSTP="-0.1" TXTSTW="-0.1" SCALEH="100" SCALEV="100" BASEO="0" CH="Awakening to find myself ensconced in my casket,"/>
+                <para/>
+                <ITEXT FONT="Baskerville Old Face Regular" FONTSIZE="12" FEATURES="inherit" FCOLOR="Black" FSHADE="100" SCOLOR="Black" SSHADE="100" TXTSHX="5" TXTSHY="-5" TXTOUT="1" TXTULP="-0.1" TXTULW="-0.1" TXTSTP="-0.1" TXTSTW="-0.1" SCALEH="100" SCALEV="100" BASEO="0" CH="a shudder courses through my chilled bones."/>
+                <para/>
+                <para/>
+                <ITEXT FONT="Baskerville Old Face Regular" FONTSIZE="12" FEATURES="inherit" FCOLOR="Black" FSHADE="100" SCOLOR="Black" SSHADE="100" TXTSHX="5" TXTSHY="-5" TXTOUT="1" TXTULP="-0.1" TXTULW="-0.1" TXTSTP="-0.1" TXTSTW="-0.1" SCALEH="100" SCALEV="100" BASEO="0" CH="How long must I have appeared dead before busy hands"/>
+                <para/>
+                <ITEXT FONT="Baskerville Old Face Regular" FONTSIZE="12" FEATURES="inherit" FCOLOR="Black" FSHADE="100" SCOLOR="Black" SSHADE="100" TXTSHX="5" TXTSHY="-5" TXTOUT="1" TXTULP="-0.1" TXTULW="-0.1" TXTSTP="-0.1" TXTSTW="-0.1" SCALEH="100" SCALEV="100" BASEO="0" CH="entombed me? Not long enough?"/>
+                <para/>
+                <para/>
+                <ITEXT FONT="Baskerville Old Face Regular" FONTSIZE="12" FEATURES="inherit" FCOLOR="Black" FSHADE="100" SCOLOR="Black" SSHADE="100" TXTSHX="5" TXTSHY="-5" TXTOUT="1" TXTULP="-0.1" TXTULW="-0.1" TXTSTP="-0.1" TXTSTW="-0.1" SCALEH="100" SCALEV="100" BASEO="0" CH="No remembrance of life preceding this in-between state."/>
+                <para/>
+                <ITEXT FONT="Baskerville Old Face Regular" FONTSIZE="12" FEATURES="inherit" FCOLOR="Black" FSHADE="100" SCOLOR="Black" SSHADE="100" TXTSHX="5" TXTSHY="-5" TXTOUT="1" TXTULP="-0.1" TXTULW="-0.1" TXTSTP="-0.1" TXTSTW="-0.1" SCALEH="100" SCALEV="100" BASEO="0" CH="No hope for a future life to live out to an old age."/>
+                <para/>
+                <ITEXT FONT="Baskerville Old Face Regular" FONTSIZE="12" FEATURES="inherit" FCOLOR="Black" FSHADE="100" SCOLOR="Black" SSHADE="100" TXTSHX="5" TXTSHY="-5" TXTOUT="1" TXTULP="-0.1" TXTULW="-0.1" TXTSTP="-0.1" TXTSTW="-0.1" SCALEH="100" SCALEV="100" BASEO="0" CH="Only the here and the now, restricted by depth,"/>
+                <para/>
+                <ITEXT FONT="Baskerville Old Face Regular" FONTSIZE="12" FEATURES="inherit" FCOLOR="Black" FSHADE="100" SCOLOR="Black" SSHADE="100" TXTSHX="5" TXTSHY="-5" TXTOUT="1" TXTULP="-0.1" TXTULW="-0.1" TXTSTP="-0.1" TXTSTW="-0.1" SCALEH="100" SCALEV="100" BASEO="0" CH="and breadth, and each and every breath."/>
+                <para/>
+                <para/>
+                <ITEXT FONT="Baskerville Old Face Regular" FONTSIZE="12" FEATURES="inherit" FCOLOR="Black" FSHADE="100" SCOLOR="Black" SSHADE="100" TXTSHX="5" TXTSHY="-5" TXTOUT="1" TXTULP="-0.1" TXTULW="-0.1" TXTSTP="-0.1" TXTSTW="-0.1" SCALEH="100" SCALEV="100" BASEO="0" CH="Time trickles away as my clawing fingers seek"/>
+                <para/>
+                <ITEXT FONT="Baskerville Old Face Regular" FONTSIZE="12" FEATURES="inherit" FCOLOR="Black" FSHADE="100" SCOLOR="Black" SSHADE="100" TXTSHX="5" TXTSHY="-5" TXTOUT="1" TXTULP="-0.1" TXTULW="-0.1" TXTSTP="-0.1" TXTSTW="-0.1" SCALEH="100" SCALEV="100" BASEO="0" CH="to rend the silk that thwarts my escape."/>
+                <para/>
+                <para/>
+                <ITEXT FONT="Baskerville Old Face Regular" FONTSIZE="12" FEATURES="inherit" FCOLOR="Black" FSHADE="100" SCOLOR="Black" SSHADE="100" TXTSHX="5" TXTSHY="-5" TXTOUT="1" TXTULP="-0.1" TXTULW="-0.1" TXTSTP="-0.1" TXTSTW="-0.1" SCALEH="100" SCALEV="100" BASEO="0" CH="Clamoring nails score the pine, hoping to breach it."/>
+                <para/>
+                <ITEXT FONT="Baskerville Old Face Regular" FONTSIZE="12" FEATURES="inherit" FCOLOR="Black" FSHADE="100" SCOLOR="Black" SSHADE="100" TXTSHX="5" TXTSHY="-5" TXTOUT="1" TXTULP="-0.1" TXTULW="-0.1" TXTSTP="-0.1" TXTSTW="-0.1" SCALEH="100" SCALEV="100" BASEO="0" CH="Yet to what avail? None."/>
+                <para/>
+                <ITEXT FONT="Baskerville Old Face Regular" FONTSIZE="12" FEATURES="inherit" FCOLOR="Black" FSHADE="100" SCOLOR="Black" SSHADE="100" TXTSHX="5" TXTSHY="-5" TXTOUT="1" TXTULP="-0.1" TXTULW="-0.1" TXTSTP="-0.1" TXTSTW="-0.1" SCALEH="100" SCALEV="100" BASEO="0" CH="Gasping for sweet oxygen, I begin my spiral downward."/>
+                <para/>
+                <ITEXT FONT="Baskerville Old Face Regular" FONTSIZE="12" FEATURES="inherit" FCOLOR="Black" FSHADE="100" SCOLOR="Black" SSHADE="100" TXTSHX="5" TXTSHY="-5" TXTOUT="1" TXTULP="-0.1" TXTULW="-0.1" TXTSTP="-0.1" TXTSTW="-0.1" SCALEH="100" SCALEV="100" BASEO="0" CH="This is the only me I will ever know. The only time I may cherish."/>
+                <para/>
+                <para/>
+                <ITEXT FONT="Baskerville Old Face Regular" FONTSIZE="12" FEATURES="inherit" FCOLOR="Black" FSHADE="100" SCOLOR="Black" SSHADE="100" TXTSHX="5" TXTSHY="-5" TXTOUT="1" TXTULP="-0.1" TXTULW="-0.1" TXTSTP="-0.1" TXTSTW="-0.1" SCALEH="100" SCALEV="100" BASEO="0" CH="Must I go out of this world with a mere whimper?"/>
+                <para/>
+                <ITEXT FONT="Baskerville Old Face Regular" FONTSIZE="12" FEATURES="inherit" FCOLOR="Black" FSHADE="100" SCOLOR="Black" SSHADE="100" TXTSHX="5" TXTSHY="-5" TXTOUT="1" TXTULP="-0.1" TXTULW="-0.1" TXTSTP="-0.1" TXTSTW="-0.1" SCALEH="100" SCALEV="100" BASEO="0" CH="No, not this corpse! I scream, I kick, I scratch, I howl,"/>
+                <para/>
+                <ITEXT FONT="Baskerville Old Face Regular" FONTSIZE="12" FEATURES="inherit" FCOLOR="Black" FSHADE="100" SCOLOR="Black" SSHADE="100" TXTSHX="5" TXTSHY="-5" TXTOUT="1" TXTULP="-0.1" TXTULW="-0.1" TXTSTP="-0.1" TXTSTW="-0.1" SCALEH="100" SCALEV="100" BASEO="0" CH="Till I am no more."/>
+                <trail/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="876.0774908" YPOS="3340.59164576" OwnPage="10" ItemID="208481008" PTYPE="4" WIDTH="324.9889299" HEIGHT="40.99630996" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L324.989 0 L324.989 40.9963 L0 40.9963 L0 0 Z" copath="M0 0 L324.989 0 L324.989 40.9963 L0 40.9963 L0 0 Z" gXpos="0" gYpos="0" gWidth="0" gHeight="0" ALIGN="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle ALIGN="0" LINESPMode="0" LINESP="15" FONT="Arial Regular" FONTSIZE="12" FEATURES="inherit" FCOLOR="Black" FSHADE="100" SCOLOR="Black" SSHADE="100" TXTSHX="5" TXTSHY="-5" TXTOUT="1" TXTULP="-0.1" TXTULW="-0.1" TXTSTP="-0.1" TXTSTW="-0.1" SCALEH="100" SCALEV="100" BASEO="0"/>
+                <ITEXT FONT="Baskerville Old Face Regular" FONTSIZE="16" FEATURES="inherit" FCOLOR="Black" FSHADE="100" SCOLOR="Black" SSHADE="100" TXTSHX="5" TXTSHY="-5" TXTOUT="1" TXTULP="-0.1" TXTULW="-0.1" TXTSTP="-0.1" TXTSTW="-0.1" SCALEH="100" SCALEV="100" BASEO="0" CH="Deathly Shroud"/>
+                <para ALIGN="2"/>
+                <ITEXT FONT="Baskerville Old Face Regular" FONTSIZE="14" CH="Maggie Brace"/>
+                <trail ALIGN="2"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="389.07749077" YPOS="2768.47405461" OwnPage="7" ItemID="208469680" PTYPE="4" WIDTH="248.374636663628" HEIGHT="416.9815498" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L248.375 0 L248.375 416.982 L0 416.982 L0 0 Z" copath="M0 0 L248.375 0 L248.375 416.982 L0 416.982 L0 0 Z" gXpos="240" gYpos="-3" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <ITEXT FONT="Baskerville Old Face Regular" FONTSIZE="11" CH="This flame we both share, slowly burning"/>
+                <para/>
+                <ITEXT FONT="Baskerville Old Face Regular" FONTSIZE="11" CH="Will surely consume us both in ash"/>
+                <para/>
+                <ITEXT FONT="Baskerville Old Face Regular" FONTSIZE="11" CH="Every day I see it scorching ever deeper"/>
+                <para/>
+                <ITEXT FONT="Baskerville Old Face Regular" FONTSIZE="11" CH="Where the fire reaches out to lash"/>
+                <para/>
+                <para/>
+                <ITEXT FONT="Baskerville Old Face Regular" FONTSIZE="11" CH="Those cracks in threads across our skin"/>
+                <para/>
+                <ITEXT FONT="Baskerville Old Face Regular" FONTSIZE="11" CH="Burning away the woman I once knew"/>
+                <para/>
+                <ITEXT FONT="Baskerville Old Face Regular" FONTSIZE="11" CH="The one who gave unto me feathers and a gentle hand"/>
+                <para/>
+                <ITEXT FONT="Baskerville Old Face Regular" FONTSIZE="11" CH="These things that I receive no longer"/>
+                <para/>
+                <para/>
+                <ITEXT FONT="Baskerville Old Face Regular" FONTSIZE="11" CH="These burns we have, are not just each others"/>
+                <para/>
+                <ITEXT FONT="Baskerville Old Face Regular" FONTSIZE="11" CH="But a lifetime of man and pain"/>
+                <para/>
+                <ITEXT FONT="Baskerville Old Face Regular" FONTSIZE="11" CH="I wish we could embrace them and ourselves"/>
+                <para/>
+                <ITEXT FONT="Baskerville Old Face Regular" FONTSIZE="11" CH="But of course, time keeps passing us by"/>
+                <para/>
+                <ITEXT FONT="Baskerville Old Face Regular" FONTSIZE="11" CH="And my tears keep falling on your carpet like rain"/>
+                <para/>
+                <para/>
+                <ITEXT FONT="Baskerville Old Face Regular" FONTSIZE="11" CH="Please make anew this horrible body"/>
+                <para/>
+                <ITEXT FONT="Baskerville Old Face Regular" FONTSIZE="11" CH="That plagues you so tremendously"/>
+                <para/>
+                <ITEXT FONT="Baskerville Old Face Regular" FONTSIZE="11" CH="I shall let myself become as clay,"/>
+                <para/>
+                <ITEXT FONT="Baskerville Old Face Regular" FONTSIZE="11" CH="That you may mold me"/>
+                <para/>
+                <ITEXT FONT="Baskerville Old Face Regular" FONTSIZE="11" CH="And wound me no longer"/>
+                <para/>
+                <para/>
+                <ITEXT FONT="Baskerville Old Face Regular" FONTSIZE="11" CH="Please"/>
+                <trail/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="149.07749077" YPOS="4003.48045461" OwnPage="11" ItemID="208475344" PTYPE="4" WIDTH="415.1808118" HEIGHT="416.9815498" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L415.181 0 L415.181 416.982 L0 416.982 L0 0 Z" copath="M0 0 L415.181 0 L415.181 416.982 L0 416.982 L0 0 Z" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <ITEXT FONT="Baskerville Old Face Regular" CH="jesus and jeff buckley and sylvia plath:"/>
+                <para/>
+                <ITEXT FONT="Baskerville Old Face Regular" CH="let me sit at your table and miss how"/>
+                <para/>
+                <ITEXT FONT="Baskerville Old Face Regular" CH="it felt to be fourteen"/>
+                <para/>
+                <ITEXT FONT="Baskerville Old Face Regular" CH="and relish in the feeling of being"/>
+                <para/>
+                <ITEXT FONT="Baskerville Old Face Regular" CH="craven and faded and twenty two."/>
+                <para/>
+                <ITEXT FONT="Baskerville Old Face Regular" CH="let’s eat,"/>
+                <para/>
+                <ITEXT FONT="Baskerville Old Face Regular" CH="exonerated and in our pajama pants."/>
+                <para/>
+                <para/>
+                <ITEXT FONT="Baskerville Old Face Regular" CH="(they know how"/>
+                <para/>
+                <ITEXT FONT="Baskerville Old Face Regular" CH="poetry strikes like the skip in your heart"/>
+                <para/>
+                <ITEXT FONT="Baskerville Old Face Regular" CH="when you miscount the steps you’ve"/>
+                <para/>
+                <ITEXT FONT="Baskerville Old Face Regular" CH="walked down for years and"/>
+                <para/>
+                <ITEXT FONT="Baskerville Old Face Regular" CH="slip on the second-to-last one)"/>
+                <para/>
+                <para/>
+                <ITEXT FONT="Baskerville Old Face Regular" CH="let me breathe in your shirt collar"/>
+                <para/>
+                <ITEXT FONT="Baskerville Old Face Regular" CH="before you must go"/>
+                <para/>
+                <ITEXT FONT="Baskerville Old Face Regular" CH="and leave saltwater on your shoulders"/>
+                <para/>
+                <ITEXT FONT="Baskerville Old Face Regular" CH="as my parting gift."/>
+                <para/>
+                <ITEXT FONT="Baskerville Old Face Regular" CH="let me squander away my years"/>
+                <para/>
+                <ITEXT FONT="Baskerville Old Face Regular" CH="surrounded by soiled napkins and"/>
+                <para/>
+                <ITEXT FONT="Baskerville Old Face Regular" CH="missing pairs of earrings;"/>
+                <para/>
+                <ITEXT FONT="Baskerville Old Face Regular" CH="be my forgotten baby angel that i place"/>
+                <para/>
+                <ITEXT FONT="Baskerville Old Face Regular" CH="so gently"/>
+                <para/>
+                <ITEXT FONT="Baskerville Old Face Regular" CH="in a cabinet, never glanced at again."/>
+                <trail/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="149.07749077" YPOS="3956.59484576" OwnPage="11" ItemID="208486672" PTYPE="4" WIDTH="324.9889299" HEIGHT="40.99630996" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L324.989 0 L324.989 40.9963 L0 40.9963 L0 0 Z" copath="M0 0 L324.989 0 L324.989 40.9963 L0 40.9963 L0 0 Z" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <ITEXT FONT="Baskerville Old Face Regular" FONTSIZE="16" CH="dinnerparty"/>
+                <para/>
+                <ITEXT FONT="Baskerville Old Face Regular" FONTSIZE="14" CH="Holli Kobialka"/>
+                <trail/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="784.0774908" YPOS="3987.48045461" OwnPage="12" ItemID="208483840" PTYPE="4" WIDTH="415.1808118" HEIGHT="449.167521773764" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L415.181 0 L415.181 449.168 L0 449.168 L0 0 Z" copath="M0 0 L415.181 0 L415.181 449.168 L0 449.168 L0 0 Z" gXpos="0" gYpos="0" gWidth="0" gHeight="0" ALIGN="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle ALIGN="0" LINESPMode="0" LINESP="15" FONT="Arial Regular" FONTSIZE="12" FEATURES="inherit" FCOLOR="Black" FSHADE="100" SCOLOR="Black" SSHADE="100" TXTSHX="5" TXTSHY="-5" TXTOUT="1" TXTULP="-0.1" TXTULW="-0.1" TXTSTP="-0.1" TXTSTW="-0.1" SCALEH="100" SCALEV="100" BASEO="0"/>
+                <ITEXT FONT="Baskerville Old Face Regular" FONTSIZE="12" FEATURES="inherit" FCOLOR="Black" FSHADE="100" SCOLOR="Black" SSHADE="100" TXTSHX="5" TXTSHY="-5" TXTOUT="1" TXTULP="-0.1" TXTULW="-0.1" TXTSTP="-0.1" TXTSTW="-0.1" SCALEH="100" SCALEV="100" BASEO="0" CH="The silence envelops me like a deathly shroud."/>
+                <para/>
+                <ITEXT FONT="Baskerville Old Face Regular" FONTSIZE="12" FEATURES="inherit" FCOLOR="Black" FSHADE="100" SCOLOR="Black" SSHADE="100" TXTSHX="5" TXTSHY="-5" TXTOUT="1" TXTULP="-0.1" TXTULW="-0.1" TXTSTP="-0.1" TXTSTW="-0.1" SCALEH="100" SCALEV="100" BASEO="0" CH="The walls press in against me, there is no escape."/>
+                <para/>
+                <ITEXT FONT="Baskerville Old Face Regular" FONTSIZE="12" FEATURES="inherit" FCOLOR="Black" FSHADE="100" SCOLOR="Black" SSHADE="100" TXTSHX="5" TXTSHY="-5" TXTOUT="1" TXTULP="-0.1" TXTULW="-0.1" TXTSTP="-0.1" TXTSTW="-0.1" SCALEH="100" SCALEV="100" BASEO="0" CH="Awakening to find myself ensconced in my casket,"/>
+                <para/>
+                <ITEXT FONT="Baskerville Old Face Regular" FONTSIZE="12" FEATURES="inherit" FCOLOR="Black" FSHADE="100" SCOLOR="Black" SSHADE="100" TXTSHX="5" TXTSHY="-5" TXTOUT="1" TXTULP="-0.1" TXTULW="-0.1" TXTSTP="-0.1" TXTSTW="-0.1" SCALEH="100" SCALEV="100" BASEO="0" CH="a shudder courses through my chilled bones."/>
+                <para/>
+                <para/>
+                <ITEXT FONT="Baskerville Old Face Regular" FONTSIZE="12" FEATURES="inherit" FCOLOR="Black" FSHADE="100" SCOLOR="Black" SSHADE="100" TXTSHX="5" TXTSHY="-5" TXTOUT="1" TXTULP="-0.1" TXTULW="-0.1" TXTSTP="-0.1" TXTSTW="-0.1" SCALEH="100" SCALEV="100" BASEO="0" CH="How long must I have appeared dead before busy hands"/>
+                <para/>
+                <ITEXT FONT="Baskerville Old Face Regular" FONTSIZE="12" FEATURES="inherit" FCOLOR="Black" FSHADE="100" SCOLOR="Black" SSHADE="100" TXTSHX="5" TXTSHY="-5" TXTOUT="1" TXTULP="-0.1" TXTULW="-0.1" TXTSTP="-0.1" TXTSTW="-0.1" SCALEH="100" SCALEV="100" BASEO="0" CH="entombed me? Not long enough?"/>
+                <para/>
+                <para/>
+                <ITEXT FONT="Baskerville Old Face Regular" FONTSIZE="12" FEATURES="inherit" FCOLOR="Black" FSHADE="100" SCOLOR="Black" SSHADE="100" TXTSHX="5" TXTSHY="-5" TXTOUT="1" TXTULP="-0.1" TXTULW="-0.1" TXTSTP="-0.1" TXTSTW="-0.1" SCALEH="100" SCALEV="100" BASEO="0" CH="No remembrance of life preceding this in-between state."/>
+                <para/>
+                <ITEXT FONT="Baskerville Old Face Regular" FONTSIZE="12" FEATURES="inherit" FCOLOR="Black" FSHADE="100" SCOLOR="Black" SSHADE="100" TXTSHX="5" TXTSHY="-5" TXTOUT="1" TXTULP="-0.1" TXTULW="-0.1" TXTSTP="-0.1" TXTSTW="-0.1" SCALEH="100" SCALEV="100" BASEO="0" CH="No hope for a future life to live out to an old age."/>
+                <para/>
+                <ITEXT FONT="Baskerville Old Face Regular" FONTSIZE="12" FEATURES="inherit" FCOLOR="Black" FSHADE="100" SCOLOR="Black" SSHADE="100" TXTSHX="5" TXTSHY="-5" TXTOUT="1" TXTULP="-0.1" TXTULW="-0.1" TXTSTP="-0.1" TXTSTW="-0.1" SCALEH="100" SCALEV="100" BASEO="0" CH="Only the here and the now, restricted by depth,"/>
+                <para/>
+                <ITEXT FONT="Baskerville Old Face Regular" FONTSIZE="12" FEATURES="inherit" FCOLOR="Black" FSHADE="100" SCOLOR="Black" SSHADE="100" TXTSHX="5" TXTSHY="-5" TXTOUT="1" TXTULP="-0.1" TXTULW="-0.1" TXTSTP="-0.1" TXTSTW="-0.1" SCALEH="100" SCALEV="100" BASEO="0" CH="and breadth, and each and every breath."/>
+                <para/>
+                <para/>
+                <ITEXT FONT="Baskerville Old Face Regular" FONTSIZE="12" FEATURES="inherit" FCOLOR="Black" FSHADE="100" SCOLOR="Black" SSHADE="100" TXTSHX="5" TXTSHY="-5" TXTOUT="1" TXTULP="-0.1" TXTULW="-0.1" TXTSTP="-0.1" TXTSTW="-0.1" SCALEH="100" SCALEV="100" BASEO="0" CH="Time trickles away as my clawing fingers seek"/>
+                <para/>
+                <ITEXT FONT="Baskerville Old Face Regular" FONTSIZE="12" FEATURES="inherit" FCOLOR="Black" FSHADE="100" SCOLOR="Black" SSHADE="100" TXTSHX="5" TXTSHY="-5" TXTOUT="1" TXTULP="-0.1" TXTULW="-0.1" TXTSTP="-0.1" TXTSTW="-0.1" SCALEH="100" SCALEV="100" BASEO="0" CH="to rend the silk that thwarts my escape."/>
+                <para/>
+                <para/>
+                <ITEXT FONT="Baskerville Old Face Regular" FONTSIZE="12" FEATURES="inherit" FCOLOR="Black" FSHADE="100" SCOLOR="Black" SSHADE="100" TXTSHX="5" TXTSHY="-5" TXTOUT="1" TXTULP="-0.1" TXTULW="-0.1" TXTSTP="-0.1" TXTSTW="-0.1" SCALEH="100" SCALEV="100" BASEO="0" CH="Clamoring nails score the pine, hoping to breach it."/>
+                <para/>
+                <ITEXT FONT="Baskerville Old Face Regular" FONTSIZE="12" FEATURES="inherit" FCOLOR="Black" FSHADE="100" SCOLOR="Black" SSHADE="100" TXTSHX="5" TXTSHY="-5" TXTOUT="1" TXTULP="-0.1" TXTULW="-0.1" TXTSTP="-0.1" TXTSTW="-0.1" SCALEH="100" SCALEV="100" BASEO="0" CH="Yet to what avail? None."/>
+                <para/>
+                <ITEXT FONT="Baskerville Old Face Regular" FONTSIZE="12" FEATURES="inherit" FCOLOR="Black" FSHADE="100" SCOLOR="Black" SSHADE="100" TXTSHX="5" TXTSHY="-5" TXTOUT="1" TXTULP="-0.1" TXTULW="-0.1" TXTSTP="-0.1" TXTSTW="-0.1" SCALEH="100" SCALEV="100" BASEO="0" CH="Gasping for sweet oxygen, I begin my spiral downward."/>
+                <para/>
+                <ITEXT FONT="Baskerville Old Face Regular" FONTSIZE="12" FEATURES="inherit" FCOLOR="Black" FSHADE="100" SCOLOR="Black" SSHADE="100" TXTSHX="5" TXTSHY="-5" TXTOUT="1" TXTULP="-0.1" TXTULW="-0.1" TXTSTP="-0.1" TXTSTW="-0.1" SCALEH="100" SCALEV="100" BASEO="0" CH="This is the only me I will ever know. The only time I may cherish."/>
+                <para/>
+                <para/>
+                <ITEXT FONT="Baskerville Old Face Regular" FONTSIZE="12" FEATURES="inherit" FCOLOR="Black" FSHADE="100" SCOLOR="Black" SSHADE="100" TXTSHX="5" TXTSHY="-5" TXTOUT="1" TXTULP="-0.1" TXTULW="-0.1" TXTSTP="-0.1" TXTSTW="-0.1" SCALEH="100" SCALEV="100" BASEO="0" CH="Must I go out of this world with a mere whimper?"/>
+                <para/>
+                <ITEXT FONT="Baskerville Old Face Regular" FONTSIZE="12" FEATURES="inherit" FCOLOR="Black" FSHADE="100" SCOLOR="Black" SSHADE="100" TXTSHX="5" TXTSHY="-5" TXTOUT="1" TXTULP="-0.1" TXTULW="-0.1" TXTSTP="-0.1" TXTSTW="-0.1" SCALEH="100" SCALEV="100" BASEO="0" CH="No, not this corpse! I scream, I kick, I scratch, I howl,"/>
+                <para/>
+                <ITEXT FONT="Baskerville Old Face Regular" FONTSIZE="12" FEATURES="inherit" FCOLOR="Black" FSHADE="100" SCOLOR="Black" SSHADE="100" TXTSHX="5" TXTSHY="-5" TXTOUT="1" TXTULP="-0.1" TXTULW="-0.1" TXTSTP="-0.1" TXTSTW="-0.1" SCALEH="100" SCALEV="100" BASEO="0" CH="Till I am no more."/>
+                <trail/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="876.0774908" YPOS="3956.59484576" OwnPage="12" ItemID="208489504" PTYPE="4" WIDTH="324.9889299" HEIGHT="40.99630996" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L324.989 0 L324.989 40.9963 L0 40.9963 L0 0 Z" copath="M0 0 L324.989 0 L324.989 40.9963 L0 40.9963 L0 0 Z" gXpos="0" gYpos="0" gWidth="0" gHeight="0" ALIGN="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle ALIGN="0" LINESPMode="0" LINESP="15" FONT="Arial Regular" FONTSIZE="12" FEATURES="inherit" FCOLOR="Black" FSHADE="100" SCOLOR="Black" SSHADE="100" TXTSHX="5" TXTSHY="-5" TXTOUT="1" TXTULP="-0.1" TXTULW="-0.1" TXTSTP="-0.1" TXTSTW="-0.1" SCALEH="100" SCALEV="100" BASEO="0"/>
+                <ITEXT FONT="Baskerville Old Face Regular" FONTSIZE="16" FEATURES="inherit" FCOLOR="Black" FSHADE="100" SCOLOR="Black" SSHADE="100" TXTSHX="5" TXTSHY="-5" TXTOUT="1" TXTULP="-0.1" TXTULW="-0.1" TXTSTP="-0.1" TXTSTW="-0.1" SCALEH="100" SCALEV="100" BASEO="0" CH="Deathly Shroud"/>
+                <para ALIGN="2"/>
+                <ITEXT FONT="Baskerville Old Face Regular" FONTSIZE="14" CH="Maggie Brace"/>
+                <trail ALIGN="2"/>
+            </StoryText>
+        </PAGEOBJECT>
+    </DOCUMENT>
+</SCRIBUSUTF8NEW>
